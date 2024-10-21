@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SOS App</string>
+    <string name="failed_to_send_SOS_alert">Failed to send SOS Alert</string>
+    <string name="SOS">SOS</string>
+    <string name="permission_is_required">Permission is needed</string>
+    <string name="permission_needed_msg">Permission needs to be granted so we can share your location with your emergency contacts</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="sos_sent">SOS Sent</string>
+    <string name="success_message">SOS alert has been successfully sent to your emergency contact.</string>
+    <string name="retry">Retry</string>
+    <string name="location_not_available">Location Not Available</string>
+</resources>
